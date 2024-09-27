@@ -35,7 +35,7 @@ ms.subservice: office-development
 
 |Topic|Description|
 |-----------|-----------------|
-|[Office development samples](../vsto/office-development-samples.md)|Provides links to sample applications that illustrate the use of Office and SharePoint development in Visual Studio.|
+|[Office development samples](../vsto/office-development-samples.md)|This page doesn't exists. Where can I find the samples? Provides links to sample applications that illustrate the use of Office and SharePoint development in Visual Studio.|
 |[Walkthroughs using Word](../vsto/walkthroughs-using-word.md)|Lists step-by-step guides that provide an introduction to Office development tools in Visual Studio and help to illustrate how you can integrate Word into Office Business Applications.|
 |[Walkthroughs using Excel](../vsto/walkthroughs-using-excel.md)|Lists step-by-step guides that provide an introduction to Office development tools in Visual Studio and help to illustrate how you can integrate Excel into Office Business Applications.|
 |[Data in Office solutions walkthroughs](../vsto/data-in-office-solutions-walkthroughs.md)|Lists step-by-step guides that illustrate how to work with data in your solutions.|
